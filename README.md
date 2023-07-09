@@ -1,2 +1,3 @@
-# simple-st-pipeline
-Simple SentenceTransformer pipeline example
+## SentenceTransformer Example CLI Pipeline
+
+Just a simple sentence transformer example embedding pipeline.
